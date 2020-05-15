@@ -9,10 +9,10 @@ layout: home
   <tr>
     <td width="75%">
       <h1>高大山 Dashan Gao</h1>
-      <p><b>PhD Student</b></p>
-      <p><b>CSE department, HKUST</b></p>
-      <p><b>Email: dgaoaa@connect.ust.hk</b></p>
-      <p><a href="/index-ch.html">中文版</a></p>
+      <p><b>博士研究生</b></p>
+      <p><b>香港科技大学 计算机科学与工程系</b></p>
+      <p><b>邮箱: dgaoaa@connect.ust.hk</b></p>
+      <p><a href="/index.html">English</a></p>
     </td>
     <td width="25%">
       <img src="/data/dashan_img.jpg" width="100%">
