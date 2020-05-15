@@ -34,7 +34,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  DashanGao
 
-google_analytics: True
+google_analytics: UA-166818532-1
 
 # Build settings
 theme: jekyll-theme-hacker
