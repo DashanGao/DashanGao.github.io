@@ -37,7 +37,7 @@ github_username:  DashanGao
 google_analytics: UA-166818532-1
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
