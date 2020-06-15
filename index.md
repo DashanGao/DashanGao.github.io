@@ -38,7 +38,11 @@ layout: default
 
 2. Dashan Gao, Ce Ju, Xiguang Wei, Yang Liu, Tianjian Chen, and Qiang Yang. Hhhfl: Hierarchical heterogeneous horizontal federated learning for electroen- cephalography. NeurIPS Workshop on Federated Learning for Data Privacy and Confidentiality, 2019.
 
-3. Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, and Cuntai Guan. Federated transfer learn- ing for eeg signal classification. IEEE Engineering in Medicine and Biology Society., 2020.
+3. Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, and Cuntai Guan. Federated Transfer Learning for EEG Signal Classification. IEEE Engineering in Medicine and Biology Society., 2020.
+
+4. Dashan Gao, Ben Tan, Ce Ju, Vincent Zheng and Qiang Yang. Privacy Threats Against Federated Matrix Factorization. IJCAI FL Workshop, 2020.
+
+5. Ce Ju, Ruihui Zhao, Jichao Sun, Xiguang Wei, Bo Zhao, Yang Liu, Hongshan Li, Tianjian Chen, Xinwei Zhang, Dashan Gao, Ben Tan, Han Yu and Yuan Jin. Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention. IJCAI FL Workshop, 2020.
 
 ---
 
