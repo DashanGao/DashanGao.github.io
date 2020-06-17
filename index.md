@@ -48,7 +48,7 @@ layout: default
 
 ## Patents
 
-1. Dashan Gao, Junliang Xu, Zhijun Chen. May 8, 2020. A Kind of Reading Method of Electronic Curtain, System and Terminal Device. CN108269460A. 
+1. Dashan Gao, Junliang Xu, Zhijun Chen. May 8, 2020. A Kind of Reading Method, System and Terminal Equipment of Electronic Screen. CN108269460A. 
 
 ---
 
