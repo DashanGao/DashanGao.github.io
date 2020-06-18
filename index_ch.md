@@ -43,12 +43,14 @@ layout: default
 
 5. Ce Ju, Ruihui Zhao, Jichao Sun, Xiguang Wei, Bo Zhao, Yang Liu, Hongshan Li, Tianjian Chen, Xinwei Zhang, Dashan Gao, Ben Tan, Han Yu and Yuan Jin. Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention. IJCAI FL Workshop, Yokohama, Japan, 2020.
 
+6. Comming soon...
 ---
 
 ## 发表专利
 
 1. Dashan Gao, Junliang Xu, Zhijun Chen. May 8, 2020. A Kind of Reading Method, System and Terminal Equipment of Electronic Screen. CN108269460A. 
 
+2. Comming soon...
 ---
 
 
