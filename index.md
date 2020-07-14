@@ -52,15 +52,21 @@ layout: default
 
 1. Dashan Gao, Junliang Xu and Zhijun Chen. May 8, 2020. A Kind of Reading Method, System and Terminal Equipment of Electronic Screen. CN108269460A. 
 
-2. Ce Ju, Dashan Gao, Xiang Cao, Yang Liu and Tianjian Chen. Feb 10, 2020. A kind of Horizontal Federated Learning Optimization Method, Equipment and Storage Based on Semi-Supervised Learning. CN11129189A.
+2. Ce Ju, Dashan Gao, Xiang Cao, Yang Liu and Tianjian Chen. Feb 10, 2020. A kind of Horizontal Federated Learning Optimization Method, Equipment and Storage Based on Semi-Supervised Learning. CN11129189A. (pending)
 
-3. Xiguang Wei, Quan Li, Ce Ju, Xiang Cao, Yang Liu, Tianjian Chen and Dashan Gao. Feb 10, 2020. A Week-Supervised Machine Learning Optimization Method, Equipment, Device and Storage. CN111325320A.
+3. Xiguang Wei, Quan Li, Ce Ju, Xiang Cao, Yang Liu, Tianjian Chen and Dashan Gao. Feb 10, 2020. A Week-Supervised Machine Learning Optimization Method, Equipment, Device and Storage. CN111325320A. (pending)
 
-4. Ce Ju and Dashan Gao. Feb 13, 2020. A Sample Clustering Method, Equipment, Device and Readable Storage. CN111339212A.
+4. Ce Ju and Dashan Gao. Feb 13, 2020. A Sample Clustering Method, Equipment, Device and Readable Storage. CN111339212A. (pending)
 
-5. Ce Ju, Dashan Gao and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A.
+5. Ce Ju, Dashan Gao and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A. (pending)
 
 6. Comming soon...
+
+---
+
+## Books
+
+1. Qiang Yang, Yang Liu, Yong Cheng, Yan Kang, Tianjian Chen and Han Yu. Federated Learning. Morgan & Claypool, 2019. (Chapter 2 & 3)
 
 ---
 
