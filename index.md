@@ -52,15 +52,17 @@ layout: default
 
 1. Dashan Gao, Junliang Xu and Zhijun Chen. May 8, 2020. A Kind of Reading Method, System and Terminal Equipment of Electronic Screen. CN108269460A. 
 
-2. Ce Ju, Dashan Gao, Xiang Cao, Yang Liu and Tianjian Chen. Feb 10, 2020. A kind of Horizontal Federated Learning Optimization Method, Equipment and Storage Based on Semi-Supervised Learning. CN11129189A. (pending)
+2. Dashan Gao, Ce Ju, Xiguang Wei, Yang Liu, Tianjian Chen. June 19, 2020. A kind of Federated Transfer Learning Method, Equipment and Storage for Electroencephalography Data Classification. CN111638803A. (pending)
 
-3. Xiguang Wei, Quan Li, Ce Ju, Xiang Cao, Yang Liu, Tianjian Chen and Dashan Gao. Feb 10, 2020. A Week-Supervised Machine Learning Optimization Method, Equipment, Device and Storage. CN111325320A. (pending)
+3. Xiguang Wei, Quan Li, Ce Ju, Dashan Gao, Xiang Cao, Yang Liu and Tianjian Chen. Feb 10, 2020. A kind of Horizontal Federated Learning Optimization Method, Equipment and Storage Based on Semi-Supervised Learning. CN111291897A. (pending)
 
-4. Ce Ju and Dashan Gao. Feb 13, 2020. A Sample Clustering Method, Equipment, Device and Readable Storage. CN111339212A. (pending)
+4. Xiguang Wei, Quan Li, Ce Ju, Xiang Cao, Yang Liu, Tianjian Chen and Dashan Gao. Feb 10, 2020. A Week-Supervised Machine Learning Optimization Method, Equipment, Device and Storage. CN111325320A. (pending)
 
-5. Ce Ju, Dashan Gao and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A. (pending)
+5. Ce Ju and Dashan Gao. Feb 13, 2020. A Sample Clustering Method, Equipment, Device and Readable Storage. CN111339212A. (pending)
 
-6. Comming soon...
+6. Ce Ju, Dashan Gao and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A. (pending)
+
+7. Comming soon...
 
 ---
 
