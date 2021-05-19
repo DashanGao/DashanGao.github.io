@@ -12,7 +12,8 @@ layout: default
       <p><b>PhD Student</b></p>
       <p><b>CSE department, HKUST</b></p>
       <p><b>Email: dgaoaa@connect.ust.hk</b></p>
-      <p><a href="/index_ch.html">中文版</a></p>
+      <p><b>Supervisor: Qiang Yang, Xin Yao </b></p> 
+     <p><a href="/index_ch.html">中文版</a></p>
     </td>
     <td width="25%">
       <img src="/data/dashan_London.jpg" width="100%">
@@ -78,7 +79,17 @@ layout: default
 
 13. Ce Ju, Dashan Gao and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A. (pending)
 
-14. Comming soon...
+14. Dashan Gao, Ben Tan, Ce Ju, Qiang Yang. Nov 27, 2020. A Kind of Method, Equipment and Storage for the Construction of Factorization Machine for Classification Tasks. CN112000987A. (pending)
+
+15. Dashan Gao, Ce Ju, Qiang Yang, Ben Tan, Vincent W. Zheng, Liu Yang. Dec 01, 2020. A Kind of Method, Equipment and Storage for the Construction of Factorization Machine. CN112016698A. (pending)
+
+16. Dashan Gao, Ce Ju, Qiang Yang, Vincent W. Zheng, Ben Tan, Liu Yang. Nov 27, 2020. A Kind of Method, Equipment and Storage for the Construction of Factorization Machine for Regression Tasks. CN112000988A. (pending)
+
+17. Dashan Gao, Ben Tan, Liu Yang, Ce Ju, Qiang Yang. Nov 27, 2020. A Kind of Method, Equipment and Storage for the Construction of Factorization Machine for Classification Tasks. CN111985573A. (pending)
+
+18. Dashan Gao, Ce Ju, Qiang Yang, Tianjian Chen, Lixin Fan. Dec 29, 2020. A Kind of Method, Equipment and Storage for Contactor Tracing. CN112153575A. (pending)
+
+19. Comming soon...
 
 ---
 
