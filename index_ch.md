@@ -44,7 +44,13 @@ layout: default
 
 5. Ce Ju, Ruihui Zhao, Jichao Sun, Xiguang Wei, Bo Zhao, Yang Liu, Hongshan Li, Tianjian Chen, Xinwei Zhang, Dashan Gao, Ben Tan, Han Yu and Yuan Jin. Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention. IJCAI FL Workshop, Yokohama, Japan, 2020.
 
-6. Comming soon...
+6. Dashan Gao, Ben Ta, Ce Ju, Vincent W. Zheng, Qiang Yang. Federated Factorization Machine for Secure Recommendation with Sparse Data. AAAI RSEML workshop, Virtual, 2021.
+
+7. Dashan Gao, Xin Yao, Qiang Yang. A Survey on Heterogeneous Federated Learning, arXiv preprint arXiv:2210.04505, 2022.
+
+8. Dashan Gao, Yunce Zhao, Yinghua Yao, Zeqi Li, Bifei Mao, Xin Yao. Robust Deep Learning Models against Semantic-Preserving Adversarial Attack, International Joint Conference on Neural Networks (IJCNN), 2023.
+
+9. Sheng Wan, Dashan Gao, Hanlin Gu, Daning Hu. FedPDD: A Privacy-Preserving Double Distillation Framework for Cross-Silo Federated Recommendation. International Joint Conference on Neural Networks (IJCNN), 2023.
 
 ---
 
