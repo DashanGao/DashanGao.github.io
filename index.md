@@ -56,6 +56,8 @@ layout: default
 10. Dashan Gao, Sheng Wan, Hanlin Gu, Lixin Fan, Xin Yao, Qiang Yang. Label Privacy Source Coding in Vertical Federated Learning. (Under Review in ICLR 2024).
 
 11. Dashan Gao, Sheng Wan, Lixin Fan, Xin Yao, Qiang Yang. Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning. (Under Reivew in AAAI 2024).
+
+
 ---
 
 ## Patents
