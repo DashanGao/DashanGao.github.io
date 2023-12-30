@@ -7,7 +7,7 @@ layout: default
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>高大山 Dashan Gao</h1>
       <p><b>博士研究生</b></p>
       <p><b>香港科技大学 计算机科学与工程系</b></p>
@@ -15,7 +15,7 @@ layout: default
       <p><b>导师: 杨强，姚新</b></p>
       <p><a href="/index.html">English</a></p>
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="/data/dashan_talk.png" width="100%">
     </td>
   </tr>
