@@ -9,7 +9,7 @@ layout: default
   <tr>
     <td width="75%">
       <h1>Dashan Gao</h1>
-      <p><b>PhD Student</b></p>
+      <p><b>PhD Candidate</b></p>
       <p><b>CSE department, HKUST</b></p>
       <p><b>Email: dgaoaa@connect.ust.hk</b></p>
       <p><b>Supervisor: Qiang Yang, Xin Yao </b></p> 
