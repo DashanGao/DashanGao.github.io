@@ -7,7 +7,7 @@ layout: default
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>Dashan Gao</h1>
       <p><b>PhD Candidate</b></p>
       <p><b>CSE department, HKUST</b></p>
@@ -15,7 +15,7 @@ layout: default
       <p><b>Supervisor: Qiang Yang, Xin Yao </b></p> 
      <p><a href="/index_ch.html">中文版</a></p>
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="/data/dashan_talk.png" width="100%">
     </td>
   </tr>
