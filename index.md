@@ -34,27 +34,27 @@ layout: default
 
 ## Publications
 
-1. Dashan Gao, Sheng Wan, Lixin Fan, Xin Yao, Qiang Yang. Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning. AAAI, 2024.
+1. *Dashan Gao*, Sheng Wan, Lixin Fan, Xin Yao, Qiang Yang. Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning. *AAAI*, 2024.
 
-2. Dashan Gao, Sheng Wan, Hanlin Gu, Lixin Fan, Xin Yao, Qiang Yang. Label Privacy Source Coding in Vertical Federated Learning. (Under Review in ICDE 2024).
+2. *Dashan Gao*, Sheng Wan, Hanlin Gu, Lixin Fan, Xin Yao, Qiang Yang. Label Privacy Source Coding in Vertical Federated Learning. (Under Review in ICDE 2024).
 
-3. Sheng Wan, Dashan Gao, Hanlin Gu, Daning Hu. FedPDD: A Privacy-Preserving Double Distillation Framework for Cross-Silo Federated Recommendation. International Joint Conference on Neural Networks (IJCNN), 2023.
+3. Sheng Wan, *Dashan Gao*, Hanlin Gu, Daning Hu. FedPDD: A Privacy-Preserving Double Distillation Framework for Cross-Silo Federated Recommendation. International Joint Conference on Neural Networks (*IJCNN*), 2023.
 
-4. Dashan Gao, Yunce Zhao, Yinghua Yao, Zeqi Li, Bifei Mao, Xin Yao. Robust Deep Learning Models against Semantic-Preserving Adversarial Attack, International Joint Conference on Neural Networks (IJCNN), 2023.
+4. *Dashan Gao*, Yunce Zhao, Yinghua Yao, Zeqi Li, Bifei Mao, Xin Yao. Robust Deep Learning Models against Semantic-Preserving Adversarial Attack, International Joint Conference on Neural Networks (*IJCNN*), 2023.
 
-5. Dashan Gao, Xin Yao, Qiang Yang. A Survey on Heterogeneous Federated Learning, arXiv preprint arXiv:2210.04505, 2022.
+5. *Dashan Gao*, Xin Yao, Qiang Yang. A Survey on Heterogeneous Federated Learning, arXiv preprint arXiv:2210.04505, 2022.
 
-6. Dashan Gao, Ben Ta, Ce Ju, Vincent W. Zheng, Qiang Yang. Federated Factorization Machine for Secure Recommendation with Sparse Data. AAAI RSEML workshop, Virtual, 2021.
+6. *Dashan Gao*, Ben Ta, Ce Ju, Vincent W. Zheng, Qiang Yang. Federated Factorization Machine for Secure Recommendation with Sparse Data. AAAI RSEML workshop, Virtual, 2021.
 
-7. Ce Ju, Ruihui Zhao, Jichao Sun, Xiguang Wei, Bo Zhao, Yang Liu, Hongshan Li, Tianjian Chen, Xinwei Zhang, Dashan Gao, Ben Tan, Han Yu and Yuan Jin. Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention. IJCAI FL Workshop, Yokohama, Japan, 2020.
+7. Ce Ju, Ruihui Zhao, Jichao Sun, Xiguang Wei, Bo Zhao, Yang Liu, Hongshan Li, Tianjian Chen, Xinwei Zhang, *Dashan Gao*, Ben Tan, Han Yu and Yuan Jin. Privacy-Preserving Technology to Help Millions of People: Federated Prediction Model for Stroke Prevention. IJCAI FL Workshop, Yokohama, Japan, 2020.
 
-8. Dashan Gao, Ben Tan, Ce Ju, Vincent Zheng and Qiang Yang. Privacy Threats Against Federated Matrix Factorization. IJCAI FL Workshop, Yokohama, Japan, 2020.
+8. *Dashan Gao*, Ben Tan, Ce Ju, Vincent Zheng and Qiang Yang. Privacy Threats Against Federated Matrix Factorization. IJCAI FL Workshop, Yokohama, Japan, 2020.
 
-9. Ce Ju, Dashan Gao, Ravikiran Mane, Ben Tan, Yang Liu, and Cuntai Guan. Federated Transfer Learning for EEG Signal Classification. IEEE Engineering in Medicine and Biology Society, Montreal, Canada, 2020.
+9. Ce Ju, *Dashan Gao*, Ravikiran Mane, Ben Tan, Yang Liu, and Cuntai Guan. Federated Transfer Learning for EEG Signal Classification. IEEE Engineering in Medicine and Biology Society, Montreal, Canada, 2020.
 
-10. Dashan Gao, Ce Ju, Xiguang Wei, Yang Liu, Tianjian Chen, and Qiang Yang. HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroen-cephalography. NeurIPS Workshop on Federated Learning for Data Privacy and Confidentiality, Vancouver, Canada, 2019.
+10. *Dashan Gao*, Ce Ju, Xiguang Wei, Yang Liu, Tianjian Chen, and Qiang Yang. HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroen-cephalography. NeurIPS Workshop on Federated Learning for Data Privacy and Confidentiality, Vancouver, Canada, 2019.
 
-11. Dashan Gao, Yang Liu, Aanbu Huang, Ce Ju, Han Yu and Qiang Yang, "Privacy-preserving Heterogeneous Federated Transfer Learning," IEEE International Conference on Big Data (Big Data), Los Angeles, CA, USA, 2019.
+11. *Dashan Gao*, Yang Liu, Aanbu Huang, Ce Ju, Han Yu and Qiang Yang, "Privacy-preserving Heterogeneous Federated Transfer Learning," IEEE International Conference on Big Data (*Big Data*), Los Angeles, CA, USA, 2019.
 
 ----
 
