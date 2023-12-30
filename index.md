@@ -84,7 +84,7 @@ layout: default
 
 12. Ce Ju and **Dashan Gao**. Feb 13, 2020. A Sample Clustering Method, Equipment, Device and Readable Storage. CN111339212A.
 
-13. Ce Ju, Dashan Gao and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A.
+13. Ce Ju, **Dashan Gao** and Xiguang Wei. Mar 6, 2020. A Federated Model Parameter Determine Method, Equipment, Device and Storage. CN111382875A.
 
 14. **Dashan Gao**, Ben Tan, Ce Ju, Qiang Yang. Nov 27, 2020. A Kind of Method, Equipment and Storage for the Construction of Factorization Machine for Classification Tasks. CN112000987A.
 
