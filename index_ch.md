@@ -16,7 +16,7 @@ layout: default
       <p><a href="/index.html">English</a></p>
     </td>
     <td width="25%">
-      <img src="/data/dashan_London.jpg" width="100%">
+      <img src="/data/dashan_talk.png" width="100%">
     </td>
   </tr>
 </table>
