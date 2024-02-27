@@ -34,7 +34,7 @@ layout: default
 
 ## 发表文献
 
-1. **Dashan Gao**, Sheng Wan, Lixin Fan, Xin Yao, Qiang Yang. Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning. **AAAI**, 2024.
+1. **Dashan Gao**, Sheng Wan, Lixin Fan, Xin Yao, Qiang Yang. Complementary Knowledge Distillation for Robust and Privacy-Preserving Model Serving in Vertical Federated Learning. **AAAI Oral (1.9%)**, 2024.
 
 2. **Dashan Gao**, Sheng Wan, Hanlin Gu, Lixin Fan, Xin Yao, Qiang Yang. Label Privacy Source Coding in Vertical Federated Learning. (Under Review in **ICDE** 2024).
 
